@@ -1,7 +1,17 @@
 # Сарылов Джалсан
 ## JavaScript | TypeScript - разработчик
 
+[Резюме](https://docs.google.com/document/d/1EgMoiLGe4Kr6vnHzHp5eyx3qaT1-WoBhEwoUcwY6iaU/edit?usp=sharing)
 
+[Портфолио](https://sarylov.github.io/portfolio/)
+
+<h3 align="left">Контакты: </h3>
+
+
+- [Номер телефона: +7 (961) 842-82-24](tel:+79618428224)
+- [Рабочая почта JalsanWorkMail@gmail.com](mailto:jalsanworkmail@gmail.com)
+- [Telegram: @JAcknicoLSAN (предпочтительно)](https://t.me/JAcknicoLSAN)
+- [LinkedIn]( https://www.linkedin.com/in/%D0%B4%D0%B6%D0%B0%D0%BB%D1%81%D0%B0%D0%BD-%D1%81%D0%B0%D1%80%D1%8B%D0%BB%D0%BE%D0%B2-a02847288/ )
 
 <h3 align="left">Основные инструменты:</h3>
 <p align="left">
