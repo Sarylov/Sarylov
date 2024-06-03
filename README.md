@@ -7,7 +7,6 @@
 
 <h3 align="left">Контакты: </h3>
 
-
 - [Номер телефона: +7 (961) 842-82-24](tel:+79618428224)
 - [Рабочая почта JalsanWorkMail@gmail.com](mailto:jalsanworkmail@gmail.com)
 - [Telegram: @JAcknicoLSAN (предпочтительно)](https://t.me/JAcknicoLSAN)
