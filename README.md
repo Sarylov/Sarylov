@@ -96,20 +96,12 @@
     />
   </a>
 
-
-
-
-
-
-
-
-
 </p>
 
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sarylov&theme=transparent&locale=ru"
     alt="sarylov"
   />
@@ -118,7 +110,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sarylov&show_icons=true&locale=ru"
+    src="https://github-readme-stats.vercel.app/api?username=sarylov&theme=transparent&show_icons=true&locale=ru"
     alt="sarylov"
   />
 </p>
