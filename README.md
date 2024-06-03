@@ -1,5 +1,7 @@
-# Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif). Меня зовут Джалсан
-## Меня зовут Джалсан и я JS разработчик
+# Сарылов Джалсан
+## JavaScript | TypeScript - разработчик
+
+
 
 <h3 align="left">Основные инструменты:</h3>
 <p align="left">
@@ -52,14 +54,6 @@
     />
   </a>
 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
